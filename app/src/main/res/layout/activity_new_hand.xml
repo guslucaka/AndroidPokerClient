@@ -7,4 +7,11 @@
     tools:context=".NewHandActivity">
 
 
+    <Button
+        android:id="@+id/Test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Test"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="140dp" />
 </android.support.constraint.ConstraintLayout>
